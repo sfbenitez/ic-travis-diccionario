@@ -3,4 +3,4 @@ Ejemplo de integración continúa para
 
 * Esto es una prueba
 
-* Esto es un herror
+* Esto es un error
